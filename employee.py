@@ -106,4 +106,4 @@ MyPlace.employee_list[0].set_job_title("Administrator")
 
 MyPlace.get_employee_list()
 
-print(vars(MyPlace.employee_list[0].company))
+# print(vars(MyPlace.employee_list[0].company))
